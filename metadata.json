@@ -1,0 +1,6 @@
+{
+  "name": "Murshad Restaurant",
+  "description": "Official website for Murshad Restaurant (Gujar Khan & Kallar Syedan branches) featuring authentic Pakistani cuisine, 24/7 dining, menu, locations, and directions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
